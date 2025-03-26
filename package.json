@@ -1,0 +1,25 @@
+{
+  "name": "casodeprueba-marturet-canogimenez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlaMarturet/CasodePrueba-Marturet-CanoGimenez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlaMarturet/CasodePrueba-Marturet-CanoGimenez/issues"
+  },
+  "homepage": "https://github.com/CarlaMarturet/CasodePrueba-Marturet-CanoGimenez#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
